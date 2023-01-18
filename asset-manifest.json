@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.be42eea3.css",
-    "main.js": "/react-homework-template/static/js/main.fb814165.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.be42eea3.css.map": "/react-homework-template/static/css/main.be42eea3.css.map",
-    "main.fb814165.js.map": "/react-homework-template/static/js/main.fb814165.js.map"
+    "main.css": "/studying-routing-in-react/static/css/main.be42eea3.css",
+    "main.js": "/studying-routing-in-react/static/js/main.16a5a22b.js",
+    "index.html": "/studying-routing-in-react/index.html",
+    "main.be42eea3.css.map": "/studying-routing-in-react/static/css/main.be42eea3.css.map",
+    "main.16a5a22b.js.map": "/studying-routing-in-react/static/js/main.16a5a22b.js.map"
   },
   "entrypoints": [
     "static/css/main.be42eea3.css",
-    "static/js/main.fb814165.js"
+    "static/js/main.16a5a22b.js"
   ]
 }
